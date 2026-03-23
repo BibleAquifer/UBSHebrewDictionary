@@ -1,0 +1,348 @@
+[
+{
+"content_id": "001900000000000",
+"reference_id": "001900000000000",
+"version": "1.0.2",
+"title": "וְדָן",
+"media_type": "Text",
+"index_reference": "וְדָן",
+"language": "por",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001900000000000\" class=\"lex-lemma\" lang=\"he\" dir=\"rtl\">וְדָן</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\" lang=\"he\" dir=\"rtl\">וְדָן</span> (<span class=\"lex-strong\">H2051</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">name</p><div class=\"lex-meaning\" data-id=\"001900001001000\"><p class=\"lex-domains\"><span class=\"lex-domain\">Nomes de Lugares</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">Vedan</span>, <span class=\"lex-gloss\">Dã</span></span> <span class=\"lex-def\">sentido incerto; provavelmente = nome de localidade</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Ezek27:19\">EZK 27:19</a><sup class=\"fn-ref\" title=\"{A:TEB} | {A:ARA} {A:NVI} וְ דָּן &quot;Também Dã” | {A:BJ} {A:BV} {A:BP} {A:CNBB} “Dã” | {A:LXX} {A:NTLH} “traziam vinho” (cf. {A:BJ} n.)\">1</sup></p></div></div><p class=\"lex-footnotes\"><span class=\"fn\" id=\"fn-1\"><sup>1</sup> <span class=\"fn-ref-verse\">EZK 27:19</span> <span class=\"lex-abbr\" title=\"Tradução Ecumênica da Bíblia\">TEB</span> | <span class=\"lex-abbr\" title=\"Bíblia de Almeida Revista e Atualizada\">ARA</span> <span class=\"lex-abbr\" title=\"Bíblia Nova Versão Internacional\">NVI</span> וְ דָּן \"Também Dã” | <span class=\"lex-abbr\" title=\"Bíblia de Jerusalém\">BJ</span> <span class=\"lex-abbr\" title=\"Bíblia Vozes\">BV</span> <span class=\"lex-abbr\" title=\"Bíblia Pastoral\">BP</span> <span class=\"lex-abbr\" title=\"Bíblia da Conferência Nacional dos Bispos do Brasil\">CNBB</span> “Dã” | <span class=\"lex-abbr\" title=\"Septuagint\">LXX</span> <span class=\"lex-abbr\" title=\"Bíblia Nova Tradução na Linguagem de Hoje\">NTLH</span> “traziam vinho” (cf. <span class=\"lex-abbr\" title=\"Bíblia de Jerusalém\">BJ</span> n.)</span></p><p class=\"lex-attribution\"><span class=\"lex-author\">Reinier de Blois</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "26027019",
+"start_ref_usfm": "EZK 27:19",
+"end_ref": "26027019",
+"end_ref_usfm": "EZK 27:19"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "001901000000000",
+"reference_id": "001901000000000",
+"version": "1.0.2",
+"title": "וָהֵב",
+"media_type": "Text",
+"index_reference": "וָהֵב",
+"language": "por",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001901000000000\" class=\"lex-lemma\" lang=\"he\" dir=\"rtl\">וָהֵב</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\" lang=\"he\" dir=\"rtl\">וָהֵב</span> (<span class=\"lex-strong\">H2052</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">name</p><div class=\"lex-meaning\" data-id=\"001901001001000\"><p class=\"lex-domains\"><span class=\"lex-domain\">Nomes de Lugares</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">Vaebe</span></span> <span class=\"lex-def\">= localidade não identificada; ◄ provavelmente em <span class=\"lex-link\" data-lemma=\"מֹואָב\">Moabe</span>, perto do rio <span class=\"lex-link\" data-lemma=\"אַרְנֹון\">Arnom</span> (ABD)</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Num21:14\">NUM 21:14</a></p></div></div><p class=\"lex-attribution\"><span class=\"lex-author\">Reinier de Blois</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04021014",
+"start_ref_usfm": "NUM 21:14",
+"end_ref": "04021014",
+"end_ref_usfm": "NUM 21:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "001902000000000",
+"reference_id": "001902000000000",
+"version": "1.0.2",
+"title": "וָו",
+"media_type": "Text",
+"index_reference": "וָו",
+"language": "por",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001902000000000\" class=\"lex-lemma\" lang=\"he\" dir=\"rtl\">וָו</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\" lang=\"he\" dir=\"rtl\">וָו</span> (<span class=\"lex-strong\">H2053</span>) <a href=\"https://sahd-online.com/words/waw/\" class=\"lex-sahd\">SAHD</a></p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">noun m</p><div class=\"lex-meaning\" data-id=\"001902001001000\"><p class=\"lex-domains\"><span class=\"lex-domain\">Tendas</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">gancho</span></span> <span class=\"lex-def\">= peça de metal encurvado ► para prender cortinas a colunas</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Exod26:32\">EXO 26:32</a> · <a href=\"https://ref.ly/Exod26:37\">EXO 26:37</a> · <a href=\"https://ref.ly/Exod27:10\">EXO 27:10</a> · <a href=\"https://ref.ly/Exod27:11\">EXO 27:11</a> · <a href=\"https://ref.ly/Exod27:17\">EXO 27:17</a> · <a href=\"https://ref.ly/Exod36:36\">EXO 36:36</a> · <a href=\"https://ref.ly/Exod36:38\">EXO 36:38</a> · <a href=\"https://ref.ly/Exod38:10\">EXO 38:10</a> · <a href=\"https://ref.ly/Exod38:11\">EXO 38:11</a> · <a href=\"https://ref.ly/Exod38:12\">EXO 38:12</a> · <a href=\"https://ref.ly/Exod38:17\">EXO 38:17</a> · <a href=\"https://ref.ly/Exod38:19\">EXO 38:19</a> · <a href=\"https://ref.ly/Exod38:28\">EXO 38:28</a></p></div></div><p class=\"lex-attribution\"><span class=\"lex-author\">Enio R. Mueller</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "02026032",
+"start_ref_usfm": "EXO 26:32",
+"end_ref": "02026032",
+"end_ref_usfm": "EXO 26:32"
+},
+{
+"start_ref": "02026037",
+"start_ref_usfm": "EXO 26:37",
+"end_ref": "02026037",
+"end_ref_usfm": "EXO 26:37"
+},
+{
+"start_ref": "02027010",
+"start_ref_usfm": "EXO 27:10",
+"end_ref": "02027010",
+"end_ref_usfm": "EXO 27:10"
+},
+{
+"start_ref": "02027011",
+"start_ref_usfm": "EXO 27:11",
+"end_ref": "02027011",
+"end_ref_usfm": "EXO 27:11"
+},
+{
+"start_ref": "02027017",
+"start_ref_usfm": "EXO 27:17",
+"end_ref": "02027017",
+"end_ref_usfm": "EXO 27:17"
+},
+{
+"start_ref": "02036036",
+"start_ref_usfm": "EXO 36:36",
+"end_ref": "02036036",
+"end_ref_usfm": "EXO 36:36"
+},
+{
+"start_ref": "02036038",
+"start_ref_usfm": "EXO 36:38",
+"end_ref": "02036038",
+"end_ref_usfm": "EXO 36:38"
+},
+{
+"start_ref": "02038010",
+"start_ref_usfm": "EXO 38:10",
+"end_ref": "02038010",
+"end_ref_usfm": "EXO 38:10"
+},
+{
+"start_ref": "02038011",
+"start_ref_usfm": "EXO 38:11",
+"end_ref": "02038011",
+"end_ref_usfm": "EXO 38:11"
+},
+{
+"start_ref": "02038012",
+"start_ref_usfm": "EXO 38:12",
+"end_ref": "02038012",
+"end_ref_usfm": "EXO 38:12"
+},
+{
+"start_ref": "02038017",
+"start_ref_usfm": "EXO 38:17",
+"end_ref": "02038017",
+"end_ref_usfm": "EXO 38:17"
+},
+{
+"start_ref": "02038019",
+"start_ref_usfm": "EXO 38:19",
+"end_ref": "02038019",
+"end_ref_usfm": "EXO 38:19"
+},
+{
+"start_ref": "02038028",
+"start_ref_usfm": "EXO 38:28",
+"end_ref": "02038028",
+"end_ref_usfm": "EXO 38:28"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "001903000000000",
+"reference_id": "001903000000000",
+"version": "1.0.2",
+"title": "וָזָר",
+"media_type": "Text",
+"index_reference": "וָזָר",
+"language": "por",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001903000000000\" class=\"lex-lemma\" lang=\"he\" dir=\"rtl\">וָזָר</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\" lang=\"he\" dir=\"rtl\">וָזָר</span> (<span class=\"lex-strong\">H2054</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">adj</p><div class=\"lex-meaning\" data-id=\"001903001001000\"><p class=\"lex-domains\"><span class=\"lex-domain\">Mau</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">culpado</span>, <span class=\"lex-gloss\">mau</span></span> <span class=\"lex-def\">significado exato incerto; possivelmente: = estado em que o comportamento de pessoas é considerado moral e eticamente inaceitável</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Prov21:8\">PRO 21:8</a></p></div></div><p class=\"lex-footnotes\"><span class=\"fn\" id=\"fn-1\"><sup>1</sup> NOTE</span></p><p class=\"lex-attribution\"><span class=\"lex-author\">Reinier de Blois; Enio R. Mueller</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "20021008",
+"start_ref_usfm": "PRO 21:8",
+"end_ref": "20021008",
+"end_ref_usfm": "PRO 21:8"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "001904000000000",
+"reference_id": "001904000000000",
+"version": "1.0.2",
+"title": "וַיְזָתָא",
+"media_type": "Text",
+"index_reference": "וַיְזָתָא",
+"language": "por",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001904000000000\" class=\"lex-lemma\" lang=\"he\" dir=\"rtl\">וַיְזָתָא</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\" lang=\"he\" dir=\"rtl\">וַיְזָתָא</span> (<span class=\"lex-strong\">H2055</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">name</p><div class=\"lex-meaning\" data-id=\"001904001001000\"><p class=\"lex-domains\"><span class=\"lex-domain\">Nomes de Pessoas</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">Vaizata</span></span> <span class=\"lex-def\">= um homem; ◄ filho de <span class=\"lex-link\" data-lemma=\"הָמָן\">Hamã</span></span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Esth9:9\">EST 9:9</a></p></div></div><p class=\"lex-attribution\"><span class=\"lex-author\">Reinier de Blois</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "17009009",
+"start_ref_usfm": "EST 9:9",
+"end_ref": "17009009",
+"end_ref_usfm": "EST 9:9"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "001905000000000",
+"reference_id": "001905000000000",
+"version": "1.0.2",
+"title": "וָלָד",
+"media_type": "Text",
+"index_reference": "וָלָד",
+"language": "por",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001905000000000\" class=\"lex-lemma\" lang=\"he\" dir=\"rtl\">וָלָד</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\" lang=\"he\" dir=\"rtl\">וָלָד</span> (<span class=\"lex-strong\">H2056</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">noun m  ·  <span class=\"lex-link\" data-lemma=\"ילד\">ילד</span></p><div class=\"lex-meaning\" data-id=\"001905001001000\"><p class=\"lex-domains\"><span class=\"lex-domain\">Pessoas</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">filhos</span></span> <span class=\"lex-def\">= descendência de humanos</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Gen11:30\">GEN 11:30</a></p></div></div><p class=\"lex-attribution\"><span class=\"lex-author\">Enio R. Mueller</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "01011030",
+"start_ref_usfm": "GEN 11:30",
+"end_ref": "01011030",
+"end_ref_usfm": "GEN 11:30"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "001906000000000",
+"reference_id": "001906000000000",
+"version": "1.0.2",
+"title": "וַנְיָה",
+"media_type": "Text",
+"index_reference": "וַנְיָה",
+"language": "por",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001906000000000\" class=\"lex-lemma\" lang=\"he\" dir=\"rtl\">וַנְיָה</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\" lang=\"he\" dir=\"rtl\">וַנְיָה</span> (<span class=\"lex-strong\">H2057</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">name</p><div class=\"lex-meaning\" data-id=\"001906001001000\"><p class=\"lex-domains\"><span class=\"lex-domain\">Nomes de Pessoas</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">Vanias</span></span> <span class=\"lex-def\">= um homem; ► casou com mulher estrangeira; no pós-exílio</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Ezra10:36\">EZR 10:36</a></p></div></div><p class=\"lex-attribution\"><span class=\"lex-author\">Reinier de Blois</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "15010036",
+"start_ref_usfm": "EZR 10:36",
+"end_ref": "15010036",
+"end_ref_usfm": "EZR 10:36"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "001907000000000",
+"reference_id": "001907000000000",
+"version": "1.0.2",
+"title": "וָפְסִי",
+"media_type": "Text",
+"index_reference": "וָפְסִי",
+"language": "por",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001907000000000\" class=\"lex-lemma\" lang=\"he\" dir=\"rtl\">וָפְסִי</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\" lang=\"he\" dir=\"rtl\">וָפְסִי</span> (<span class=\"lex-strong\">H2058</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">name</p><div class=\"lex-meaning\" data-id=\"001907001001000\"><p class=\"lex-domains\"><span class=\"lex-domain\">Nomes de Pessoas</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">Vofsi</span></span> <span class=\"lex-def\">= um homem ◄ da tribo de <span class=\"lex-link\" data-lemma=\"נַפְתָּלִי\">Naftali</span>; ► pai de <span class=\"lex-link\" data-lemma=\"נַחְבִּי\">Nabi</span>, um dos espias</span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Num13:14\">NUM 13:14</a></p></div></div><p class=\"lex-attribution\"><span class=\"lex-author\">Reinier de Blois</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "04013014",
+"start_ref_usfm": "NUM 13:14",
+"end_ref": "04013014",
+"end_ref_usfm": "NUM 13:14"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "001908000000000",
+"reference_id": "001908000000000",
+"version": "1.0.2",
+"title": "וַשְׁנִי",
+"media_type": "Text",
+"index_reference": "וַשְׁנִי",
+"language": "por",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001908000000000\" class=\"lex-lemma\" lang=\"he\" dir=\"rtl\">וַשְׁנִי</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\" lang=\"he\" dir=\"rtl\">וַשְׁנִי</span> (<span class=\"lex-strong\">H2059</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">name</p><div class=\"lex-meaning\" data-id=\"001908001001000\"><p class=\"lex-domains\"><span class=\"lex-domain\">Nomes de Pessoas</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">Vasni</span></span> <span class=\"lex-def\">= um homem, ◄ filho de <span class=\"lex-link\" data-lemma=\"שְׁמוּאֵל\">Samuel</span>, da tribo de <span class=\"lex-link\" data-lemma=\"לֵוִי\">Levi</span></span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/1Chr6:13\">1CH 6:13</a><sup class=\"fn-ref\" title=\"{A:ARA} {A:NVI} {A:BJ} {A:TEB} {A:BV} {A:BP} {A:CNBB} וְהַשֵּׁנִי &quot;e o segundo”.\">1</sup></p></div></div><p class=\"lex-footnotes\"><span class=\"fn\" id=\"fn-1\"><sup>1</sup> <span class=\"fn-ref-verse\">1CH 6:13</span> <span class=\"lex-abbr\" title=\"Bíblia de Almeida Revista e Atualizada\">ARA</span> <span class=\"lex-abbr\" title=\"Bíblia Nova Versão Internacional\">NVI</span> <span class=\"lex-abbr\" title=\"Bíblia de Jerusalém\">BJ</span> <span class=\"lex-abbr\" title=\"Tradução Ecumênica da Bíblia\">TEB</span> <span class=\"lex-abbr\" title=\"Bíblia Vozes\">BV</span> <span class=\"lex-abbr\" title=\"Bíblia Pastoral\">BP</span> <span class=\"lex-abbr\" title=\"Bíblia da Conferência Nacional dos Bispos do Brasil\">CNBB</span> וְהַשֵּׁנִי \"e o segundo”.</span></p><p class=\"lex-attribution\"><span class=\"lex-author\">Reinier de Blois</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "13006013",
+"start_ref_usfm": "1CH 6:13",
+"end_ref": "13006013",
+"end_ref_usfm": "1CH 6:13"
+}
+],
+"resource": []
+}
+},
+{
+"content_id": "001909000000000",
+"reference_id": "001909000000000",
+"version": "1.0.2",
+"title": "וַשְׁתִּי",
+"media_type": "Text",
+"index_reference": "וַשְׁתִּי",
+"language": "por",
+"review_level": "None",
+"content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; font-style: italic; display: block; margin-top: 0.2em; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"001909000000000\" class=\"lex-lemma\" lang=\"he\" dir=\"rtl\">וַשְׁתִּי</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\" lang=\"he\" dir=\"rtl\">וַשְׁתִּי</span> (<span class=\"lex-strong\">H2060</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">name</p><div class=\"lex-meaning\" data-id=\"001909001001000\"><p class=\"lex-domains\"><span class=\"lex-domain\">Nomes de Pessoas</span></p><p class=\"lex-sense\"><span class=\"lex-glosses\"><span class=\"lex-gloss\">Vasti</span></span> <span class=\"lex-def\">= uma mulher; ► esposa de <span class=\"lex-link\" data-lemma=\"אֲחַשְׁוֵרֹושׁ\">Assuero</span>, rei da <span class=\"lex-link\" data-lemma=\"פָּרַס\">Pérsia</span>; foi deposta da posição de rainha e substituída por <span class=\"lex-link\" data-lemma=\"אֶסְתֵּר\">Ester</span></span></p><p class=\"lex-refs\"><a href=\"https://ref.ly/Esth1:9\">EST 1:9</a> · <a href=\"https://ref.ly/Esth1:11\">EST 1:11</a> · <a href=\"https://ref.ly/Esth1:12\">EST 1:12</a> · <a href=\"https://ref.ly/Esth1:15\">EST 1:15</a> · <a href=\"https://ref.ly/Esth1:16\">EST 1:16</a> · <a href=\"https://ref.ly/Esth1:17\">EST 1:17</a> · <a href=\"https://ref.ly/Esth1:19\">EST 1:19</a> · <a href=\"https://ref.ly/Esth2:1\">EST 2:1</a> · <a href=\"https://ref.ly/Esth2:4\">EST 2:4</a> · <a href=\"https://ref.ly/Esth2:17\">EST 2:17</a></p></div></div><p class=\"lex-attribution\"><span class=\"lex-author\">Reinier de Blois</span></p>",
+"associations": {
+"passage": [
+{
+"start_ref": "17001009",
+"start_ref_usfm": "EST 1:9",
+"end_ref": "17001009",
+"end_ref_usfm": "EST 1:9"
+},
+{
+"start_ref": "17001011",
+"start_ref_usfm": "EST 1:11",
+"end_ref": "17001011",
+"end_ref_usfm": "EST 1:11"
+},
+{
+"start_ref": "17001012",
+"start_ref_usfm": "EST 1:12",
+"end_ref": "17001012",
+"end_ref_usfm": "EST 1:12"
+},
+{
+"start_ref": "17001015",
+"start_ref_usfm": "EST 1:15",
+"end_ref": "17001015",
+"end_ref_usfm": "EST 1:15"
+},
+{
+"start_ref": "17001016",
+"start_ref_usfm": "EST 1:16",
+"end_ref": "17001016",
+"end_ref_usfm": "EST 1:16"
+},
+{
+"start_ref": "17001017",
+"start_ref_usfm": "EST 1:17",
+"end_ref": "17001017",
+"end_ref_usfm": "EST 1:17"
+},
+{
+"start_ref": "17001019",
+"start_ref_usfm": "EST 1:19",
+"end_ref": "17001019",
+"end_ref_usfm": "EST 1:19"
+},
+{
+"start_ref": "17002001",
+"start_ref_usfm": "EST 2:1",
+"end_ref": "17002001",
+"end_ref_usfm": "EST 2:1"
+},
+{
+"start_ref": "17002004",
+"start_ref_usfm": "EST 2:4",
+"end_ref": "17002004",
+"end_ref_usfm": "EST 2:4"
+},
+{
+"start_ref": "17002017",
+"start_ref_usfm": "EST 2:17",
+"end_ref": "17002017",
+"end_ref_usfm": "EST 2:17"
+}
+],
+"resource": []
+}
+}
+]
