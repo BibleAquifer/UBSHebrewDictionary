@@ -2,7 +2,7 @@
 {
 "content_id": "002642000000000",
 "reference_id": "002642000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טאב",
 "media_type": "Text",
 "index_reference": "טאב",
@@ -18,13 +18,14 @@
 "end_ref_usfm": "DAN 6:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002643000000000",
 "reference_id": "002643000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טאטא",
 "media_type": "Text",
 "index_reference": "טאטא",
@@ -40,13 +41,14 @@
 "end_ref_usfm": "ISA 14:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002644000000000",
 "reference_id": "002644000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טָב",
 "media_type": "Text",
 "index_reference": "טָב",
@@ -68,13 +70,14 @@
 "end_ref_usfm": "EZR 5:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002645000000000",
 "reference_id": "002645000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טָֽבְאֵל",
 "media_type": "Text",
 "index_reference": "טָֽבְאֵל",
@@ -96,13 +99,14 @@
 "end_ref_usfm": "ISA 7:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002646000000000",
 "reference_id": "002646000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טָֽבְאַל",
 "media_type": "Text",
 "index_reference": "טָֽבְאַל",
@@ -124,13 +128,14 @@
 "end_ref_usfm": "ISA 7:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002647000000000",
 "reference_id": "002647000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טְבוּל",
 "media_type": "Text",
 "index_reference": "טְבוּל",
@@ -146,13 +151,14 @@
 "end_ref_usfm": "EZK 23:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002648000000000",
 "reference_id": "002648000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַבּוּר",
 "media_type": "Text",
 "index_reference": "טַבּוּר",
@@ -174,13 +180,14 @@
 "end_ref_usfm": "EZK 38:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002649000000000",
 "reference_id": "002649000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טבח",
 "media_type": "Text",
 "index_reference": "טבח",
@@ -256,13 +263,14 @@
 "end_ref_usfm": "EZK 21:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002650000000000",
 "reference_id": "002650000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֶבַח",
 "media_type": "Text",
 "index_reference": "טֶבַח",
@@ -350,13 +358,14 @@
 "end_ref_usfm": "GEN 22:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002651000000000",
 "reference_id": "002651000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַבַּח",
 "media_type": "Text",
 "index_reference": "טַבַּח",
@@ -372,13 +381,14 @@
 "end_ref_usfm": "DAN 2:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002652000000000",
 "reference_id": "002652000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַבָּח",
 "media_type": "Text",
 "index_reference": "טַבָּח",
@@ -580,13 +590,14 @@
 "end_ref_usfm": "JER 52:30"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002653000000000",
 "reference_id": "002653000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טִבְחָה",
 "media_type": "Text",
 "index_reference": "טִבְחָה",
@@ -614,13 +625,14 @@
 "end_ref_usfm": "1SA 25:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002654000000000",
 "reference_id": "002654000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַבָּחָה",
 "media_type": "Text",
 "index_reference": "טַבָּחָה",
@@ -636,13 +648,14 @@
 "end_ref_usfm": "1SA 8:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002655000000000",
 "reference_id": "002655000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טִבְחַת",
 "media_type": "Text",
 "index_reference": "טִבְחַת",
@@ -658,13 +671,14 @@
 "end_ref_usfm": "1CH 18:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002656000000000",
 "reference_id": "002656000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טבל",
 "media_type": "Text",
 "index_reference": "טבל",
@@ -770,13 +784,14 @@
 "end_ref_usfm": "JOB 9:31"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002657000000000",
 "reference_id": "002657000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טְבַלְיָהוּ",
 "media_type": "Text",
 "index_reference": "טְבַלְיָהוּ",
@@ -792,13 +807,14 @@
 "end_ref_usfm": "1CH 26:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002658000000000",
 "reference_id": "002658000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טבע",
 "media_type": "Text",
 "index_reference": "טבע",
@@ -868,13 +884,14 @@
 "end_ref_usfm": "JER 38:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002659000000000",
 "reference_id": "002659000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַבָּעֹות",
 "media_type": "Text",
 "index_reference": "טַבָּעֹות",
@@ -896,13 +913,14 @@
 "end_ref_usfm": "NEH 7:46"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002660000000000",
 "reference_id": "002660000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַבַּעַת",
 "media_type": "Text",
 "index_reference": "טַבַּעַת",
@@ -1140,13 +1158,14 @@
 "end_ref_usfm": "EXO 38:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002661000000000",
 "reference_id": "002661000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַבְרִמֹּן",
 "media_type": "Text",
 "index_reference": "טַבְרִמֹּן",
@@ -1162,13 +1181,14 @@
 "end_ref_usfm": "1KI 15:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002662000000000",
 "reference_id": "002662000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֵבֵת",
 "media_type": "Text",
 "index_reference": "טֵבֵת",
@@ -1184,13 +1204,14 @@
 "end_ref_usfm": "EST 2:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002663000000000",
 "reference_id": "002663000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַבָּת",
 "media_type": "Text",
 "index_reference": "טַבָּת",
@@ -1206,13 +1227,14 @@
 "end_ref_usfm": "JDG 7:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002664000000000",
 "reference_id": "002664000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טָהֹור",
 "media_type": "Text",
 "index_reference": "טָהֹור",
@@ -1756,13 +1778,14 @@
 "end_ref_usfm": "PRO 15:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002665000000000",
 "reference_id": "002665000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טהר",
 "media_type": "Text",
 "index_reference": "טהר",
@@ -2246,13 +2269,14 @@
 "end_ref_usfm": "EZK 37:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002666000000000",
 "reference_id": "002666000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֹהַר",
 "media_type": "Text",
 "index_reference": "טֹהַר",
@@ -2280,13 +2304,14 @@
 "end_ref_usfm": "LEV 12:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002667000000000",
 "reference_id": "002667000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טָהֳרָה",
 "media_type": "Text",
 "index_reference": "טָהֳרָה",
@@ -2374,13 +2399,14 @@
 "end_ref_usfm": "NEH 12:45"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002668000000000",
 "reference_id": "002668000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טוב",
 "media_type": "Text",
 "index_reference": "טוב",
@@ -2654,13 +2680,14 @@
 "end_ref_usfm": "HOS 10:1"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002669000000000",
 "reference_id": "002669000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טוּב",
 "media_type": "Text",
 "index_reference": "טוּב",
@@ -2856,13 +2883,14 @@
 "end_ref_usfm": "PRO 11:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002670000000000",
 "reference_id": "002670000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֹוב",
 "media_type": "Text",
 "index_reference": "טֹוב",
@@ -5566,13 +5594,14 @@
 "end_ref_usfm": "2SA 10:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002671000000000",
 "reference_id": "002671000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֹוב אֲדֹונִיָּה",
 "media_type": "Text",
 "index_reference": "טֹוב אֲדֹונִיָּה",
@@ -5588,13 +5617,14 @@
 "end_ref_usfm": "2CH 17:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002672000000000",
 "reference_id": "002672000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֹובָה",
 "media_type": "Text",
 "index_reference": "טֹובָה",
@@ -5982,13 +6012,14 @@
 "end_ref_usfm": "AMO 9:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002673000000000",
 "reference_id": "002673000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֹובִיָּה",
 "media_type": "Text",
 "index_reference": "טֹובִיָּה",
@@ -6094,13 +6125,14 @@
 "end_ref_usfm": "ZEC 6:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002674000000000",
 "reference_id": "002674000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֹובִיָּהוּ",
 "media_type": "Text",
 "index_reference": "טֹובִיָּהוּ",
@@ -6116,13 +6148,14 @@
 "end_ref_usfm": "2CH 17:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002675000000000",
 "reference_id": "002675000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טוה",
 "media_type": "Text",
 "index_reference": "טוה",
@@ -6144,13 +6177,14 @@
 "end_ref_usfm": "EXO 35:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002676000000000",
 "reference_id": "002676000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טוח",
 "media_type": "Text",
 "index_reference": "טוח",
@@ -6220,13 +6254,14 @@
 "end_ref_usfm": "EZK 22:28"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002677000000000",
 "reference_id": "002677000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֹוטָפֹות",
 "media_type": "Text",
 "index_reference": "טֹוטָפֹות",
@@ -6254,13 +6289,14 @@
 "end_ref_usfm": "DEU 11:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002678000000000",
 "reference_id": "002678000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טול",
 "media_type": "Text",
 "index_reference": "טול",
@@ -6354,13 +6390,14 @@
 "end_ref_usfm": "PSA 37:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002679000000000",
 "reference_id": "002679000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טוּר",
 "media_type": "Text",
 "index_reference": "טוּר",
@@ -6496,13 +6533,14 @@
 "end_ref_usfm": "DAN 2:45"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002680000000000",
 "reference_id": "002680000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טושׂ",
 "media_type": "Text",
 "index_reference": "טושׂ",
@@ -6518,13 +6556,14 @@
 "end_ref_usfm": "JOB 9:26"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002681000000000",
 "reference_id": "002681000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טְוָת",
 "media_type": "Text",
 "index_reference": "טְוָת",
@@ -6540,13 +6579,14 @@
 "end_ref_usfm": "DAN 6:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002682000000000",
 "reference_id": "002682000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טחה",
 "media_type": "Text",
 "index_reference": "טחה",
@@ -6562,13 +6602,14 @@
 "end_ref_usfm": "GEN 21:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002683000000000",
 "reference_id": "002683000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טְחֹון",
 "media_type": "Text",
 "index_reference": "טְחֹון",
@@ -6584,13 +6625,14 @@
 "end_ref_usfm": "LAM 5:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002684000000000",
 "reference_id": "002684000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֻחֹות",
 "media_type": "Text",
 "index_reference": "טֻחֹות",
@@ -6612,13 +6654,14 @@
 "end_ref_usfm": "PSA 51:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002685000000000",
 "reference_id": "002685000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טחח",
 "media_type": "Text",
 "index_reference": "טחח",
@@ -6634,13 +6677,14 @@
 "end_ref_usfm": "ISA 44:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002686000000000",
 "reference_id": "002686000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טחן",
 "media_type": "Text",
 "index_reference": "טחן",
@@ -6698,13 +6742,14 @@
 "end_ref_usfm": "ISA 3:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002687000000000",
 "reference_id": "002687000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַחֲנָה",
 "media_type": "Text",
 "index_reference": "טַחֲנָה",
@@ -6720,13 +6765,14 @@
 "end_ref_usfm": "ECC 12:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002688000000000",
 "reference_id": "002688000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טְחֹרִים",
 "media_type": "Text",
 "index_reference": "טְחֹרִים",
@@ -6784,13 +6830,14 @@
 "end_ref_usfm": "1SA 6:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002689000000000",
 "reference_id": "002689000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טִיחַ",
 "media_type": "Text",
 "index_reference": "טִיחַ",
@@ -6806,13 +6853,14 @@
 "end_ref_usfm": "EZK 13:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002690000000000",
 "reference_id": "002690000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טִיט",
 "media_type": "Text",
 "index_reference": "טִיט",
@@ -6894,13 +6942,14 @@
 "end_ref_usfm": "ZEC 10:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002691000000000",
 "reference_id": "002691000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טִין",
 "media_type": "Text",
 "index_reference": "טִין",
@@ -6922,13 +6971,14 @@
 "end_ref_usfm": "DAN 2:43"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002692000000000",
 "reference_id": "002692000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טִירָה",
 "media_type": "Text",
 "index_reference": "טִירָה",
@@ -6980,13 +7030,14 @@
 "end_ref_usfm": "EZK 46:23"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002693000000000",
 "reference_id": "002693000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַל",
 "media_type": "Text",
 "index_reference": "טַל",
@@ -7206,13 +7257,14 @@
 "end_ref_usfm": "ZEC 8:12"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002694000000000",
 "reference_id": "002694000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טלא",
 "media_type": "Text",
 "index_reference": "טלא",
@@ -7258,13 +7310,14 @@
 "end_ref_usfm": "EZK 16:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002695000000000",
 "reference_id": "002695000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טְלָאִים",
 "media_type": "Text",
 "index_reference": "טְלָאִים",
@@ -7280,13 +7333,14 @@
 "end_ref_usfm": "1SA 15:4"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002696000000000",
 "reference_id": "002696000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טָלֶה",
 "media_type": "Text",
 "index_reference": "טָלֶה",
@@ -7314,13 +7368,14 @@
 "end_ref_usfm": "ISA 65:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002697000000000",
 "reference_id": "002697000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַלְטֵלָה",
 "media_type": "Text",
 "index_reference": "טַלְטֵלָה",
@@ -7336,13 +7391,14 @@
 "end_ref_usfm": "ISA 22:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002698000000000",
 "reference_id": "002698000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טלל",
 "media_type": "Text",
 "index_reference": "טלל",
@@ -7364,13 +7420,14 @@
 "end_ref_usfm": "NEH 3:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002699000000000",
 "reference_id": "002699000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֶלֶם",
 "media_type": "Text",
 "index_reference": "טֶלֶם",
@@ -7392,13 +7449,14 @@
 "end_ref_usfm": "EZR 10:24"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002700000000000",
 "reference_id": "002700000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַלְמֹון",
 "media_type": "Text",
 "index_reference": "טַלְמֹון",
@@ -7438,13 +7496,14 @@
 "end_ref_usfm": "NEH 12:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002701000000000",
 "reference_id": "002701000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טמא",
 "media_type": "Text",
 "index_reference": "טמא",
@@ -8306,13 +8365,14 @@
 "end_ref_usfm": "LEV 20:25"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002702000000000",
 "reference_id": "002702000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טָמֵא",
 "media_type": "Text",
 "index_reference": "טָמֵא",
@@ -8790,13 +8850,14 @@
 "end_ref_usfm": "EZK 22:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002703000000000",
 "reference_id": "002703000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֻמְאָה",
 "media_type": "Text",
 "index_reference": "טֻמְאָה",
@@ -8992,13 +9053,14 @@
 "end_ref_usfm": "ZEC 13:2"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002704000000000",
 "reference_id": "002704000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טמה",
 "media_type": "Text",
 "index_reference": "טמה",
@@ -9014,13 +9076,14 @@
 "end_ref_usfm": "JOB 18:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002705000000000",
 "reference_id": "002705000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טמן",
 "media_type": "Text",
 "index_reference": "טמן",
@@ -9204,13 +9267,14 @@
 "end_ref_usfm": "JOB 31:33"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002706000000000",
 "reference_id": "002706000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֶנֶא",
 "media_type": "Text",
 "index_reference": "טֶנֶא",
@@ -9244,13 +9308,14 @@
 "end_ref_usfm": "DEU 28:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002707000000000",
 "reference_id": "002707000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טנף",
 "media_type": "Text",
 "index_reference": "טנף",
@@ -9266,13 +9331,14 @@
 "end_ref_usfm": "SNG 5:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002708000000000",
 "reference_id": "002708000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טעה",
 "media_type": "Text",
 "index_reference": "טעה",
@@ -9288,13 +9354,14 @@
 "end_ref_usfm": "EZK 13:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002709000000000",
 "reference_id": "002709000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טעם",
 "media_type": "Text",
 "index_reference": "טעם",
@@ -9382,13 +9449,14 @@
 "end_ref_usfm": "PRO 31:18"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002710000000000",
 "reference_id": "002710000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טְעֵם",
 "media_type": "Text",
 "index_reference": "טְעֵם",
@@ -9566,13 +9634,14 @@
 "end_ref_usfm": "DAN 6:3"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002711000000000",
 "reference_id": "002711000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַעַם",
 "media_type": "Text",
 "index_reference": "טַעַם",
@@ -9654,13 +9723,14 @@
 "end_ref_usfm": "JON 3:7"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002712000000000",
 "reference_id": "002712000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טען",
 "media_type": "Text",
 "index_reference": "טען",
@@ -9682,13 +9752,14 @@
 "end_ref_usfm": "ISA 14:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002713000000000",
 "reference_id": "002713000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַף",
 "media_type": "Text",
 "index_reference": "טַף",
@@ -9950,13 +10021,14 @@
 "end_ref_usfm": "EZR 8:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002714000000000",
 "reference_id": "002714000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טפח",
 "media_type": "Text",
 "index_reference": "טפח",
@@ -9978,13 +10050,14 @@
 "end_ref_usfm": "LAM 2:22"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002715000000000",
 "reference_id": "002715000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֶפַח",
 "media_type": "Text",
 "index_reference": "טֶפַח",
@@ -10006,13 +10079,14 @@
 "end_ref_usfm": "2CH 4:5"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002716000000000",
 "reference_id": "002716000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֹפַח",
 "media_type": "Text",
 "index_reference": "טֹפַח",
@@ -10052,13 +10126,14 @@
 "end_ref_usfm": "EZK 43:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002717000000000",
 "reference_id": "002717000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַפְחָה",
 "media_type": "Text",
 "index_reference": "טַפְחָה",
@@ -10080,13 +10155,14 @@
 "end_ref_usfm": "1KI 7:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002718000000000",
 "reference_id": "002718000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טִפֻּחִים",
 "media_type": "Text",
 "index_reference": "טִפֻּחִים",
@@ -10102,13 +10178,14 @@
 "end_ref_usfm": "LAM 2:20"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002719000000000",
 "reference_id": "002719000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טפל",
 "media_type": "Text",
 "index_reference": "טפל",
@@ -10136,13 +10213,14 @@
 "end_ref_usfm": "JOB 14:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002720000000000",
 "reference_id": "002720000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טִפְסָר",
 "media_type": "Text",
 "index_reference": "טִפְסָר",
@@ -10164,13 +10242,14 @@
 "end_ref_usfm": "NAM 3:17"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002721000000000",
 "reference_id": "002721000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טפף",
 "media_type": "Text",
 "index_reference": "טפף",
@@ -10186,13 +10265,14 @@
 "end_ref_usfm": "ISA 3:16"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002722000000000",
 "reference_id": "002722000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טְפַר",
 "media_type": "Text",
 "index_reference": "טְפַר",
@@ -10214,13 +10294,14 @@
 "end_ref_usfm": "DAN 7:19"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002723000000000",
 "reference_id": "002723000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טפשׁ",
 "media_type": "Text",
 "index_reference": "טפשׁ",
@@ -10236,13 +10317,14 @@
 "end_ref_usfm": "PSA 119:70"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002724000000000",
 "reference_id": "002724000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טָפַת",
 "media_type": "Text",
 "index_reference": "טָפַת",
@@ -10258,13 +10340,14 @@
 "end_ref_usfm": "1KI 4:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002725000000000",
 "reference_id": "002725000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טרד",
 "media_type": "Text",
 "index_reference": "טרד",
@@ -10310,13 +10393,14 @@
 "end_ref_usfm": "DAN 5:21"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002726000000000",
 "reference_id": "002726000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טְרֹום",
 "media_type": "Text",
 "index_reference": "טְרֹום",
@@ -10325,13 +10409,14 @@
 "content": "<style>\nh1.lex-lemma { font-family: Georgia, serif; font-size: 1.4em; margin: 0 0 0.1em; }\n.lex-entry-meta { margin: 0 0 0.4em; font-size: 0.95em; color: #333; }\n.lex-lemma-meta { font-family: Georgia, serif; font-weight: bold; }\n.lex-strong { font-size: 0.85em; color: #555; }\n.lex-alt-lemmas { font-size: 0.85em; color: #555; }\n.lex-attribution { margin-top: 0.6em; font-size: 0.8em; color: #888; text-align: right; }\n.lex-author { font-style: italic; }\n.lex-contributors { font-style: italic; }\n.lex-base-form { font-family: Georgia, serif; margin: 0.5em 0 0 0; }\n.lex-base-form-head { margin: 0.25em 0; font-size: 0.9em; color: #444; }\n.lex-meaning { margin: 0.5em 0 0.5em 1em; padding-left: 0.75em; border-left: 3px solid #e0e0e0; }\n.lex-domains { margin: 0.2em 0; font-size: 0.8em; color: #666; }\n.lex-entry-code { font-weight: bold; color: #666; font-family: monospace; }\n.lex-forms { color: #444; }\n.lex-word-sense { font-size: 0.9em; color: #666; }\n.lex-domain { background: #f0f4ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-subdomain { background: #f5f0ff; border-radius: 3px; padding: 1px 5px; margin-right: 4px; }\n.lex-collocations { margin: 0.2em 0; font-size: 0.9em; }\n.lex-sense { margin: 0.2em 0; }\n.lex-glosses { font-weight: bold; margin-right: 0.4em; }\n.lex-def { font-size: 0.95em; }\n.lex-def-long { font-size: 0.9em; color: #333; display: block; margin-top: 0.2em; }\n.lex-comments { font-size: 0.88em; color: #555; display: block; margin-top: 0.3em; padding-left: 1em; border-left: 2px solid #ddd; }\n.lex-refs { margin: 0.3em 0; font-size: 0.82em; color: #444; }\n.lex-link { color: #1a5fb4; cursor: pointer; }\n.lex-domain-ref { color: #1a5fb4; font-family: monospace; font-size: 0.9em; }\n.lex-sahd { font-size: 0.85em; color: #1a5fb4; }\n.lex-abbr { border-bottom: 1px dotted #888; cursor: help; }\nsup.fn-ref { font-size: 0.75em; color: #888; }\n.lex-footnotes { font-size: 0.8em; color: #555; margin-top: 0.5em; border-top: 1px solid #eee; padding-top: 0.4em; }\n.fn-ref-verse { font-weight: bold; margin-right: 0.3em; }\nspan[data-bntype=\"bibleReference\"] { color: #1a5fb4; }\n</style><h1 id=\"002726000000000\" class=\"lex-lemma\" lang=\"he\" dir=\"rtl\">טְרֹום</h1><p class=\"lex-entry-meta\"><span class=\"lex-lemma-meta\" lang=\"he\" dir=\"rtl\">טְרֹום</span> (<span class=\"lex-strong\">H2958</span>)</p><div class=\"lex-base-form\"><p class=\"lex-base-form-head\">noun c</p></div><p class=\"lex-footnotes\"><span class=\"fn\" id=\"fn-1\"><sup>1</sup> <span class=\"fn-ref-verse\">RUT 3:14</span> MT-K בטרום | MT-Q בְּטֶרֶם = <span class=\"lex-link\" data-lemma=\"טֶרֶם\">טֶרֶם</span></span></p><p class=\"lex-attribution\"><span class=\"lex-author\">Timothy L. Wilt</span></p>",
 "associations": {
 "passage": [],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002727000000000",
 "reference_id": "002727000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טרח",
 "media_type": "Text",
 "index_reference": "טרח",
@@ -10347,13 +10432,14 @@
 "end_ref_usfm": "JOB 37:11"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002728000000000",
 "reference_id": "002728000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֹרַח",
 "media_type": "Text",
 "index_reference": "טֹרַח",
@@ -10375,13 +10461,14 @@
 "end_ref_usfm": "ISA 1:14"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002729000000000",
 "reference_id": "002729000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טָרִי",
 "media_type": "Text",
 "index_reference": "טָרִי",
@@ -10403,13 +10490,14 @@
 "end_ref_usfm": "ISA 1:6"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002730000000000",
 "reference_id": "002730000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֶרֶם",
 "media_type": "Text",
 "index_reference": "טֶרֶם",
@@ -10713,13 +10801,14 @@
 "end_ref_usfm": "HAG 2:15"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002731000000000",
 "reference_id": "002731000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טרף",
 "media_type": "Text",
 "index_reference": "טרף",
@@ -10861,13 +10950,14 @@
 "end_ref_usfm": "PRO 30:8"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002732000000000",
 "reference_id": "002732000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טֶרֶף",
 "media_type": "Text",
 "index_reference": "טֶרֶף",
@@ -11009,13 +11099,14 @@
 "end_ref_usfm": "MAL 3:10"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002733000000000",
 "reference_id": "002733000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טָרָף",
 "media_type": "Text",
 "index_reference": "טָרָף",
@@ -11037,13 +11128,14 @@
 "end_ref_usfm": "EZK 17:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002734000000000",
 "reference_id": "002734000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טְרֵפָה",
 "media_type": "Text",
 "index_reference": "טְרֵפָה",
@@ -11107,13 +11199,14 @@
 "end_ref_usfm": "NAM 2:13"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 },
 {
 "content_id": "002735000000000",
 "reference_id": "002735000000000",
-"version": "1.0.2",
+"version": "1.0.4",
 "title": "טַרְפְּלָי",
 "media_type": "Text",
 "index_reference": "טַרְפְּלָי",
@@ -11129,7 +11222,8 @@
 "end_ref_usfm": "EZR 4:9"
 }
 ],
-"resource": []
+"resource": [],
+"acai": []
 }
 }
 ]
