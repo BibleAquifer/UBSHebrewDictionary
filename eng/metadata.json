@@ -30,7 +30,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "UBSHebrewDictionary",
-"date_created": "2026-05-12",
+"date_created": "2026-09-18",
 "language": "eng",
 "localizations": [
 "fra",
@@ -48,7 +48,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-05-12T12:54:43.778295"
+"dateCreated": "2026-09-18T10:56:50.365474"
 },
 "idAuthorities": {
 "aquifer": {
@@ -62,7 +62,7 @@
 "primary": {
 "aquifer": {
 "UBSHebrewDictionary": {
-"timestamp": "2026-05-12T12:54:43.778295"
+"timestamp": "2026-09-18T10:56:50.365474"
 }
 }
 },
@@ -94,7 +94,7 @@
 "ingredients": {
 "json/001.content.json": {
 "mimeType": "text/json",
-"size": 11464076,
+"size": 13708639,
 "scope": {
 "א": [
 "אֵב",
@@ -908,7 +908,7 @@
 },
 "json/002.content.json": {
 "mimeType": "text/json",
-"size": 4619182,
+"size": 5362218,
 "scope": {
 "ב": [
 "בִּאָה",
@@ -1341,7 +1341,7 @@
 },
 "json/003.content.json": {
 "mimeType": "text/json",
-"size": 2153254,
+"size": 2372473,
 "scope": {
 "ג": [
 "גֵּא",
@@ -1646,7 +1646,7 @@
 },
 "json/004.content.json": {
 "mimeType": "text/json",
-"size": 1918703,
+"size": 2192464,
 "scope": {
 "ד": [
 "דָּא",
@@ -1856,7 +1856,7 @@
 },
 "json/005.content.json": {
 "mimeType": "text/json",
-"size": 1414570,
+"size": 1612343,
 "scope": {
 "ה": [
 "הֲ",
@@ -2023,7 +2023,7 @@
 },
 "json/006.content.json": {
 "mimeType": "text/json",
-"size": 40647,
+"size": 41166,
 "scope": {
 "ו": [
 "וְדָן",
@@ -2041,7 +2041,7 @@
 },
 "json/007.content.json": {
 "mimeType": "text/json",
-"size": 1525689,
+"size": 1734660,
 "scope": {
 "ז": [
 "זְאֵב",
@@ -2212,7 +2212,7 @@
 },
 "json/008.content.json": {
 "mimeType": "text/json",
-"size": 4217081,
+"size": 4635215,
 "scope": {
 "ח": [
 "חֹב",
@@ -2789,7 +2789,7 @@
 },
 "json/009.content.json": {
 "mimeType": "text/json",
-"size": 663245,
+"size": 728881,
 "scope": {
 "ט": [
 "טאב",
@@ -2891,7 +2891,7 @@
 },
 "json/010.content.json": {
 "mimeType": "text/json",
-"size": 6444486,
+"size": 7554952,
 "scope": {
 "י": [
 "יאב",
@@ -3380,7 +3380,7 @@
 },
 "json/011.content.json": {
 "mimeType": "text/json",
-"size": 2210647,
+"size": 2476886,
 "scope": {
 "כ": [
 "כאב",
@@ -3652,7 +3652,7 @@
 },
 "json/012.content.json": {
 "mimeType": "text/json",
-"size": 2061218,
+"size": 2466041,
 "scope": {
 "ל": [
 "לָא",
@@ -3800,7 +3800,7 @@
 },
 "json/013.content.json": {
 "mimeType": "text/json",
-"size": 7122275,
+"size": 7943865,
 "scope": {
 "מ": [
 "מַאֲבוּס",
@@ -4756,7 +4756,7 @@
 },
 "json/014.content.json": {
 "mimeType": "text/json",
-"size": 3360495,
+"size": 3751315,
 "scope": {
 "נ": [
 "נֹא",
@@ -5155,7 +5155,7 @@
 },
 "json/015.content.json": {
 "mimeType": "text/json",
-"size": 1277396,
+"size": 1370551,
 "scope": {
 "ס": [
 "סְאָה",
@@ -5376,7 +5376,7 @@
 },
 "json/016.content.json": {
 "mimeType": "text/json",
-"size": 5775348,
+"size": 6595992,
 "scope": {
 "ע": [
 "עָב",
@@ -5960,7 +5960,7 @@
 },
 "json/017.content.json": {
 "mimeType": "text/json",
-"size": 2154914,
+"size": 2345165,
 "scope": {
 "פ": [
 "פאה",
@@ -6293,7 +6293,7 @@
 },
 "json/018.content.json": {
 "mimeType": "text/json",
-"size": 1729618,
+"size": 1890530,
 "scope": {
 "צ": [
 "צֵאָה",
@@ -6553,7 +6553,7 @@
 },
 "json/019.content.json": {
 "mimeType": "text/json",
-"size": 2396288,
+"size": 2674106,
 "scope": {
 "ק": [
 "קֵא",
@@ -6847,7 +6847,7 @@
 },
 "json/020.content.json": {
 "mimeType": "text/json",
-"size": 2829851,
+"size": 3166508,
 "scope": {
 "ר": [
 "ראה",
@@ -7179,7 +7179,7 @@
 },
 "json/021.content.json": {
 "mimeType": "text/json",
-"size": 6670608,
+"size": 7554054,
 "scope": {
 "ש": [
 "שֶׁ",
@@ -7906,7 +7906,7 @@
 },
 "json/022.content.json": {
 "mimeType": "text/json",
-"size": 1793544,
+"size": 1940545,
 "scope": {
 "ת": [
 "תָּא",
@@ -8200,542 +8200,542 @@
 ]
 }
 },
-"alignments/01.alignment.json": {
+"alignments/json/01.alignment.json": {
 "mimeType": "text/json",
-"size": 3560694,
+"size": 3385093,
 "scope": {
 "GEN": []
 }
 },
-"alignments/02.alignment.json": {
+"alignments/json/02.alignment.json": {
 "mimeType": "text/json",
-"size": 2909372,
+"size": 2765706,
 "scope": {
 "EXO": []
 }
 },
-"alignments/03.alignment.json": {
+"alignments/json/03.alignment.json": {
 "mimeType": "text/json",
-"size": 2035528,
+"size": 1934949,
 "scope": {
 "LEV": []
 }
 },
-"alignments/04.alignment.json": {
+"alignments/json/04.alignment.json": {
 "mimeType": "text/json",
-"size": 2911808,
+"size": 2768044,
 "scope": {
 "NUM": []
 }
 },
-"alignments/05.alignment.json": {
+"alignments/json/05.alignment.json": {
 "mimeType": "text/json",
-"size": 2461070,
+"size": 2340070,
 "scope": {
 "DEU": []
 }
 },
-"alignments/06.alignment.json": {
+"alignments/json/06.alignment.json": {
 "mimeType": "text/json",
-"size": 1750204,
+"size": 1663965,
 "scope": {
 "JOS": []
 }
 },
-"alignments/07.alignment.json": {
+"alignments/json/07.alignment.json": {
 "mimeType": "text/json",
-"size": 1721102,
+"size": 1636258,
 "scope": {
 "JDG": []
 }
 },
-"alignments/08.alignment.json": {
+"alignments/json/08.alignment.json": {
 "mimeType": "text/json",
-"size": 221104,
+"size": 210226,
 "scope": {
 "RUT": []
 }
 },
-"alignments/09.alignment.json": {
+"alignments/json/09.alignment.json": {
 "mimeType": "text/json",
-"size": 2283156,
+"size": 2170530,
 "scope": {
 "1SA": []
 }
 },
-"alignments/10.alignment.json": {
+"alignments/json/10.alignment.json": {
 "mimeType": "text/json",
-"size": 1906664,
+"size": 1812563,
 "scope": {
 "2SA": []
 }
 },
-"alignments/11.alignment.json": {
+"alignments/json/11.alignment.json": {
 "mimeType": "text/json",
-"size": 2285580,
+"size": 2172788,
 "scope": {
 "1KI": []
 }
 },
-"alignments/12.alignment.json": {
+"alignments/json/12.alignment.json": {
 "mimeType": "text/json",
-"size": 2189390,
+"size": 2081315,
 "scope": {
 "2KI": []
 }
 },
-"alignments/13.alignment.json": {
+"alignments/json/13.alignment.json": {
 "mimeType": "text/json",
-"size": 1963874,
+"size": 1867167,
 "scope": {
 "1CH": []
 }
 },
-"alignments/14.alignment.json": {
+"alignments/json/14.alignment.json": {
 "mimeType": "text/json",
-"size": 2332052,
+"size": 2217237,
 "scope": {
 "2CH": []
 }
 },
-"alignments/15.alignment.json": {
+"alignments/json/15.alignment.json": {
 "mimeType": "text/json",
-"size": 673524,
+"size": 640559,
 "scope": {
 "EZR": []
 }
 },
-"alignments/16.alignment.json": {
+"alignments/json/16.alignment.json": {
 "mimeType": "text/json",
-"size": 955830,
+"size": 908884,
 "scope": {
 "NEH": []
 }
 },
-"alignments/17.alignment.json": {
+"alignments/json/17.alignment.json": {
 "mimeType": "text/json",
-"size": 530064,
+"size": 503883,
 "scope": {
 "EST": []
 }
 },
-"alignments/18.alignment.json": {
+"alignments/json/18.alignment.json": {
 "mimeType": "text/json",
-"size": 1474986,
+"size": 1402533,
 "scope": {
 "JOB": []
 }
 },
-"alignments/19.alignment.json": {
+"alignments/json/19.alignment.json": {
 "mimeType": "text/json",
-"size": 3562102,
+"size": 3388304,
 "scope": {
 "PSA": []
 }
 },
-"alignments/20.alignment.json": {
+"alignments/json/20.alignment.json": {
 "mimeType": "text/json",
-"size": 1271930,
+"size": 1209247,
 "scope": {
 "PRO": []
 }
 },
-"alignments/21.alignment.json": {
+"alignments/json/21.alignment.json": {
 "mimeType": "text/json",
-"size": 499742,
+"size": 474901,
 "scope": {
 "ECC": []
 }
 },
-"alignments/22.alignment.json": {
+"alignments/json/22.alignment.json": {
 "mimeType": "text/json",
-"size": 239470,
+"size": 227801,
 "scope": {
 "SNG": []
 }
 },
-"alignments/23.alignment.json": {
+"alignments/json/23.alignment.json": {
 "mimeType": "text/json",
-"size": 3014684,
+"size": 2866426,
 "scope": {
 "ISA": []
 }
 },
-"alignments/24.alignment.json": {
+"alignments/json/24.alignment.json": {
 "mimeType": "text/json",
-"size": 3722900,
+"size": 3539434,
 "scope": {
 "JER": []
 }
 },
-"alignments/25.alignment.json": {
+"alignments/json/25.alignment.json": {
 "mimeType": "text/json",
-"size": 275536,
+"size": 262060,
 "scope": {
 "LAM": []
 }
 },
-"alignments/26.alignment.json": {
+"alignments/json/26.alignment.json": {
 "mimeType": "text/json",
-"size": 3201432,
+"size": 3044177,
 "scope": {
 "EZK": []
 }
 },
-"alignments/27.alignment.json": {
+"alignments/json/27.alignment.json": {
 "mimeType": "text/json",
-"size": 1011466,
+"size": 962307,
 "scope": {
 "DAN": []
 }
 },
-"alignments/28.alignment.json": {
+"alignments/json/28.alignment.json": {
 "mimeType": "text/json",
-"size": 411554,
+"size": 391394,
 "scope": {
 "HOS": []
 }
 },
-"alignments/29.alignment.json": {
+"alignments/json/29.alignment.json": {
 "mimeType": "text/json",
-"size": 168622,
+"size": 160330,
 "scope": {
 "JOL": []
 }
 },
-"alignments/30.alignment.json": {
+"alignments/json/30.alignment.json": {
 "mimeType": "text/json",
-"size": 362460,
+"size": 344602,
 "scope": {
 "AMO": []
 }
 },
-"alignments/31.alignment.json": {
+"alignments/json/31.alignment.json": {
 "mimeType": "text/json",
-"size": 51682,
+"size": 49135,
 "scope": {
 "OBA": []
 }
 },
-"alignments/32.alignment.json": {
+"alignments/json/32.alignment.json": {
 "mimeType": "text/json",
-"size": 117948,
+"size": 112120,
 "scope": {
 "JON": []
 }
 },
-"alignments/33.alignment.json": {
+"alignments/json/33.alignment.json": {
 "mimeType": "text/json",
-"size": 250382,
+"size": 238071,
 "scope": {
 "MIC": []
 }
 },
-"alignments/34.alignment.json": {
+"alignments/json/34.alignment.json": {
 "mimeType": "text/json",
-"size": 101562,
+"size": 96585,
 "scope": {
 "NAM": []
 }
 },
-"alignments/35.alignment.json": {
+"alignments/json/35.alignment.json": {
 "mimeType": "text/json",
-"size": 122492,
+"size": 116460,
 "scope": {
 "HAB": []
 }
 },
-"alignments/36.alignment.json": {
+"alignments/json/36.alignment.json": {
 "mimeType": "text/json",
-"size": 136108,
+"size": 129401,
 "scope": {
 "ZEP": []
 }
 },
-"alignments/37.alignment.json": {
+"alignments/json/37.alignment.json": {
 "mimeType": "text/json",
-"size": 103678,
+"size": 98542,
 "scope": {
 "HAG": []
 }
 },
-"alignments/38.alignment.json": {
+"alignments/json/38.alignment.json": {
 "mimeType": "text/json",
-"size": 535814,
+"size": 509351,
 "scope": {
 "ZEC": []
 }
 },
-"alignments/39.alignment.json": {
+"alignments/json/39.alignment.json": {
 "mimeType": "text/json",
-"size": 156734,
+"size": 149001,
 "scope": {
 "MAL": []
 }
 },
-"md/001.content.md": {
-"mimeType": "text/markdown",
-"size": 3188162
-},
-"md/002.content.md": {
-"mimeType": "text/markdown",
-"size": 1185046
-},
-"md/003.content.md": {
-"mimeType": "text/markdown",
-"size": 456301
-},
-"md/004.content.md": {
-"mimeType": "text/markdown",
-"size": 468282
-},
-"md/005.content.md": {
-"mimeType": "text/markdown",
-"size": 329257
-},
-"md/006.content.md": {
-"mimeType": "text/markdown",
-"size": 4929
-},
-"md/007.content.md": {
-"mimeType": "text/markdown",
-"size": 357389
-},
 "md/008.content.md": {
 "mimeType": "text/markdown",
-"size": 880636
+"size": 568804
 },
 "md/009.content.md": {
 "mimeType": "text/markdown",
-"size": 141386
+"size": 92231
 },
-"md/010.content.md": {
+"md/003.content.md": {
 "mimeType": "text/markdown",
-"size": 1712648
+"size": 293247
+},
+"md/004.content.md": {
+"mimeType": "text/markdown",
+"size": 277403
 },
 "md/011.content.md": {
 "mimeType": "text/markdown",
-"size": 504406
-},
-"md/012.content.md": {
-"mimeType": "text/markdown",
-"size": 577741
-},
-"md/013.content.md": {
-"mimeType": "text/markdown",
-"size": 1558443
-},
-"md/014.content.md": {
-"mimeType": "text/markdown",
-"size": 767843
-},
-"md/015.content.md": {
-"mimeType": "text/markdown",
-"size": 240290
+"size": 312998
 },
 "md/016.content.md": {
 "mimeType": "text/markdown",
-"size": 1401706
-},
-"md/017.content.md": {
-"mimeType": "text/markdown",
-"size": 432357
-},
-"md/018.content.md": {
-"mimeType": "text/markdown",
-"size": 350543
-},
-"md/019.content.md": {
-"mimeType": "text/markdown",
-"size": 542889
+"size": 828618
 },
 "md/020.content.md": {
 "mimeType": "text/markdown",
-"size": 648528
+"size": 406654
+},
+"md/017.content.md": {
+"mimeType": "text/markdown",
+"size": 285996
+},
+"md/010.content.md": {
+"mimeType": "text/markdown",
+"size": 961822
+},
+"md/005.content.md": {
+"mimeType": "text/markdown",
+"size": 191099
+},
+"md/002.content.md": {
+"mimeType": "text/markdown",
+"size": 679237
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 1588018
+"size": 964860
+},
+"md/012.content.md": {
+"mimeType": "text/markdown",
+"size": 309537
+},
+"md/015.content.md": {
+"mimeType": "text/markdown",
+"size": 164544
+},
+"md/007.content.md": {
+"mimeType": "text/markdown",
+"size": 210709
+},
+"md/006.content.md": {
+"mimeType": "text/markdown",
+"size": 3865
+},
+"md/001.content.md": {
+"mimeType": "text/markdown",
+"size": 1700847
+},
+"md/014.content.md": {
+"mimeType": "text/markdown",
+"size": 485911
+},
+"md/013.content.md": {
+"mimeType": "text/markdown",
+"size": 961130
 },
 "md/022.content.md": {
 "mimeType": "text/markdown",
-"size": 349890
+"size": 233970
+},
+"md/019.content.md": {
+"mimeType": "text/markdown",
+"size": 342813
+},
+"md/018.content.md": {
+"mimeType": "text/markdown",
+"size": 228854
 },
 "docx/001.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 806317
+"size": 440236
 },
 "docx/002.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 388656
+"size": 229208
 },
 "docx/003.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 203101
+"size": 141053
 },
 "docx/004.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 192914
+"size": 123266
 },
 "docx/005.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 147730
+"size": 96869
 },
 "docx/006.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 44127
+"size": 43530
 },
 "docx/007.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 155170
+"size": 103421
 },
 "docx/008.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 353296
+"size": 235837
 },
 "docx/009.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 92516
+"size": 72881
 },
 "docx/010.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 505047
+"size": 281408
 },
 "docx/011.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 214968
+"size": 142598
 },
 "docx/012.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 203507
+"size": 115740
 },
 "docx/013.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 537832
+"size": 343435
 },
 "docx/014.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 306367
+"size": 201644
 },
 "docx/015.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 132476
+"size": 101583
 },
 "docx/016.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 470961
+"size": 281716
 },
 "docx/017.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 197117
+"size": 140500
 },
 "docx/018.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 169954
+"size": 121619
 },
 "docx/019.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 232838
+"size": 156541
 },
 "docx/020.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 265778
+"size": 173905
 },
 "docx/021.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 538997
+"size": 332529
 },
 "docx/022.content.docx": {
 "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-"size": 171530
+"size": 125205
 },
 "pdf/001.content.pdf": {
 "mimeType": "application/pdf",
-"size": 34224958
+"size": 4145791
 },
 "pdf/002.content.pdf": {
 "mimeType": "application/pdf",
-"size": 11855980
+"size": 1982158
 },
 "pdf/003.content.pdf": {
 "mimeType": "application/pdf",
-"size": 4094267
+"size": 1121920
 },
 "pdf/004.content.pdf": {
 "mimeType": "application/pdf",
-"size": 4531145
+"size": 863797
 },
 "pdf/005.content.pdf": {
 "mimeType": "application/pdf",
-"size": 3268343
+"size": 629757
 },
 "pdf/006.content.pdf": {
 "mimeType": "application/pdf",
-"size": 71326
+"size": 57792
 },
 "pdf/007.content.pdf": {
 "mimeType": "application/pdf",
-"size": 3491982
+"size": 679770
 },
 "pdf/008.content.pdf": {
 "mimeType": "application/pdf",
-"size": 7865958
+"size": 2189921
 },
 "pdf/009.content.pdf": {
 "mimeType": "application/pdf",
-"size": 1246954
+"size": 369401
 },
 "pdf/010.content.pdf": {
 "mimeType": "application/pdf",
-"size": 17512234
+"size": 2576243
 },
 "pdf/011.content.pdf": {
 "mimeType": "application/pdf",
-"size": 4634143
+"size": 1077818
 },
 "pdf/012.content.pdf": {
 "mimeType": "application/pdf",
-"size": 6103777
+"size": 734703
 },
 "pdf/013.content.pdf": {
 "mimeType": "application/pdf",
-"size": 14774868
+"size": 3487793
 },
 "pdf/014.content.pdf": {
 "mimeType": "application/pdf",
-"size": 6891937
+"size": 1687004
 },
 "pdf/015.content.pdf": {
 "mimeType": "application/pdf",
-"size": 2041843
+"size": 739746
 },
 "pdf/016.content.pdf": {
 "mimeType": "application/pdf",
-"size": 13569922
+"size": 2579523
 },
 "pdf/017.content.pdf": {
 "mimeType": "application/pdf",
-"size": 3768514
+"size": 1176611
 },
 "pdf/018.content.pdf": {
 "mimeType": "application/pdf",
-"size": 3105309
+"size": 914957
 },
 "pdf/019.content.pdf": {
 "mimeType": "application/pdf",
-"size": 4882278
+"size": 1213154
 },
 "pdf/020.content.pdf": {
 "mimeType": "application/pdf",
-"size": 5940270
+"size": 1442958
 },
 "pdf/021.content.pdf": {
 "mimeType": "application/pdf",
-"size": 14900107
+"size": 3088918
 },
 "pdf/022.content.pdf": {
 "mimeType": "application/pdf",
-"size": 3048419
+"size": 1004583
 }
 },
 "copyright": {
