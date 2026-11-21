@@ -22721,7 +22721,7 @@
 "type": "person",
 "confidence": 0.8059,
 "match_method": "embedding",
-"preferred_label": "A Man"
+"preferred_label": "un hombre"
 }
 ]
 }
@@ -148748,7 +148748,7 @@
 "type": "keyterm",
 "confidence": 0.8026,
 "match_method": "embedding",
-"preferred_label": "fidelidad"
+"preferred_label": "verdad"
 }
 ]
 }

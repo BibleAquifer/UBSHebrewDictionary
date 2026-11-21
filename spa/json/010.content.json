@@ -133532,7 +133532,7 @@
 "type": "realia",
 "confidence": 0.8014,
 "match_method": "embedding",
-"preferred_label": "Seat"
+"preferred_label": "asiento"
 }
 ]
 }
@@ -152246,7 +152246,7 @@
 "type": "group",
 "confidence": 0.8355,
 "match_method": "embedding",
-"preferred_label": "Israel"
+"preferred_label": "israelitas"
 }
 ]
 }

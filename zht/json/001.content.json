@@ -22721,7 +22721,7 @@
 "type": "person",
 "confidence": 0.8059,
 "match_method": "embedding",
-"preferred_label": "A Man"
+"preferred_label": "一個人"
 }
 ]
 }
@@ -148748,7 +148748,7 @@
 "type": "keyterm",
 "confidence": 0.8026,
 "match_method": "embedding",
-"preferred_label": "Truth"
+"preferred_label": "信實（誠實）"
 }
 ]
 }
