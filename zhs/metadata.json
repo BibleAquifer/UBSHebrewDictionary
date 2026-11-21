@@ -30,7 +30,7 @@
 },
 "adaptation_notice": "",
 "resource_code": "UBSHebrewDictionary",
-"date_created": "2026-09-18",
+"date_created": "2026-11-20",
 "language": "zhs",
 "localizations": [
 "eng",
@@ -48,7 +48,7 @@
 "version": "1.0.0",
 "category": "source",
 "defaultLocale": "en",
-"dateCreated": "2026-09-18T10:57:56.167433"
+"dateCreated": "2026-11-20T19:12:39.139212"
 },
 "idAuthorities": {
 "aquifer": {
@@ -62,7 +62,7 @@
 "primary": {
 "aquifer": {
 "UBSHebrewDictionary": {
-"timestamp": "2026-09-18T10:57:56.167433"
+"timestamp": "2026-11-20T19:12:39.139212"
 }
 }
 },
@@ -8507,7 +8507,7 @@
 },
 "md/010.content.md": {
 "mimeType": "text/markdown",
-"size": 1014175
+"size": 1014184
 },
 "md/005.content.md": {
 "mimeType": "text/markdown",
@@ -8519,7 +8519,7 @@
 },
 "md/021.content.md": {
 "mimeType": "text/markdown",
-"size": 949510
+"size": 949536
 },
 "md/012.content.md": {
 "mimeType": "text/markdown",
@@ -8539,7 +8539,7 @@
 },
 "md/001.content.md": {
 "mimeType": "text/markdown",
-"size": 1808931
+"size": 1808936
 },
 "md/014.content.md": {
 "mimeType": "text/markdown",
